@@ -1,7 +1,11 @@
 # SCT Web Development Task 1 - Responsive Landing Page
 ## Demo Preview
-You can preview the project live by visiting the following link:  
-[Demo Preview](http://localhost:8000/LandingPage.html)
+You can preview the project live by clicking the button below:
+
+<a href="https://your-demo-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge" alt="Live Demo"/>
+</a>
+
 
 ## Overview
 This project is a **Responsive Landing Page** created as part of the SkillCraft Technology Web Development Internship. The landing page is designed to be fully responsive and mobile-friendly, ensuring it provides an optimal viewing experience across a variety of devices, including desktops, tablets, and smartphones.
